@@ -30,6 +30,12 @@ const achievements = [
     color: '#ffa116',
   },
   {
+    title: 'Gate 2025 Qualified',
+    description: 'Qualified for Graduate Aptitude Test in Engineering 2025',
+    icon: <CodeIcon />,
+    color: '#e91e63',
+  },
+  {
     title: 'Certifications',
     description: 'CCNAv7: Introduction to Network, Machine Learning - Infosys Springboard',
     icon: <EmojiEventsIcon />,

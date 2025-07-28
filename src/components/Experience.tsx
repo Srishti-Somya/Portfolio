@@ -17,7 +17,8 @@ const experiences = [
     period: 'June 2025 - present',
     location: 'Remote',
     description: [
-      'Working on implementation for change data capture in the existing database of SaaS products using Kafka and Debezium.',
+      'Implemented a real-time Change Data Capture (CDC) pipeline using Debezium, Redpanda (Kafka), and an ingest API to sync changes from SQL Server to customer-specific dashboard tables.',
+      'Developed a dynamic process to handle inserts, updates, and deletes based on Debezium CDC events, creating destination tables on demand',
     ],
   },
   {
